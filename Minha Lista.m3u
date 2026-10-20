@@ -239,6 +239,8 @@ http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/3069.ts
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/1717
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6285
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD [A]" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND FHD [A]
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6285
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND NORDESTE FHD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND NORDESTE FHD
 http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/4895.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS FHD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND RS FHD
@@ -285,7 +287,7 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9572
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/331
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MA TV DIFUSORA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/GHGG.png/revision/latest?cb=20210714172057" group-title="CANAIS ABERTOS",SBT MA TV DIFUSORA
 http://srv.elitehdbr.vip:8880/live/T60VtlUvfT/ewKar0nMAt/331.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MG TV ALTEROSA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Altrosa_2010.png/revision/latest?cb=20171007211107" group-title="CANAIS ABERTOS",SBT MA TV ALTEROSA
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MG TV ALTEROSA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Altrosa_2010.png/revision/latest?cb=20171007211107" group-title="CANAIS ABERTOS",SBT MG TV ALTEROSA
 http://srv.elitehdbr.vip:8880/live/T60VtlUvfT/ewKar0nMAt/331.ts
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PI TV CIDADE VERDE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/Logotipo_TV_Cidade_Verde.png/250px-Logotipo_TV_Cidade_Verde.png" group-title="CANAIS ABERTOS",SBT PI TV CIDADE VERDE
 http://srv.elitehdbr.vip:8880/live/T60VtlUvfT/ewKar0nMAt/331.ts
@@ -333,6 +335,8 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4974
 http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/4973.ts
 #EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA SD" tvg-logo="https://4.bp.blogspot.com/-5XsS_85yalI/Wg7yE5DtDfI/AAAAAAAABJA/wig3_YP0gqYM5YaaDy5GdRQ40WPsT4MQwCPcBGAYYCw/s1600/terraviva.png" group-title="CANAIS ABERTOS",TERRA VIVA SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/313
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL" tvg-logo="https://1.bp.blogspot.com/-iQeUAEiVBeo/Wg7yBojJyUI/AAAAAAAABIM/tuDJovzw_4Mc8FODhL39EC1sC0-ntNmpwCPcBGAYYCw/s1600/rural.png" group-title="CANAIS ABERTOS",CANAL RURAL
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/307.ts
 #EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="https://3.bp.blogspot.com/-79rD_nRxlpE/WmJDt0cKLcI/AAAAAAAAB5w/ATV2OZvM0CsNdWqX4uTwS8NwKpOnAVN5wCLcBGAs/s1600/camara.png" group-title="CANAIS ABERTOS",TV CAMARA
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9603
 #EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD" tvg-logo="https://2.bp.blogspot.com/-2LZJcCGjPSo/W1jII8OO1_I/AAAAAAAACSc/TytUpRI_aBUAiGgaI7RNx6olxZ3VIU_6ACLcBGAs/s1600/TV%2BJUSTICA.png" group-title="CANAIS ABERTOS",TV JUSTICA SD
@@ -409,11 +413,15 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2834
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5605
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://2.bp.blogspot.com/-sgCNaCmIbBU/Wh_-ZhZHAqI/AAAAAAAABd8/aphhHB2L4C0Wski0MvtuyPKmWSZG1-9HQCLcBGAs/s1600/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/160
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE 4K UHD" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE 4K UHD
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5369
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5369
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/201
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD [A]" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE HD [A]
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4911
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD [A] 2" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE HD [A] 2
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4911
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/202
@@ -577,83 +585,83 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5745
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5746
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE SD (INDEFINIDO 8)" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE CLUBES",PREMIERE SD (INDEFINIDO 8)
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5751
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM FHD H265
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2952
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM FHD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2752
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/287
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD LEG" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD LEG
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9549
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD [A]" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD [A]
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4918
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM SD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/286
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD LEG" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM SD LEG
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM SD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9548
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="GLOBOSAT FILMES",TELECINE ACTION FHD H265
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2954
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION FHD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2759
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/296
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD [A]" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD [A]
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4919
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD LEG" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD LEG
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9555
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION SD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/295
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD LEG" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION SD LEG
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION SD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9554
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA FHD H265
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6566
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA FHD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2953
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/290
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD LEG" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD LEG
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9551
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD [A]" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD [A]
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5441
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA SD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2754
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD LEG" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA SD LEG
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA SD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9550
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN FHD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5944
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/293
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD LEG" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD LEG
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9553
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD [A]" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD [A]
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4920
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN SD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/292
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD LEG" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN SD LEG
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN SD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9552
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH FHD H265
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2951
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH FHD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5945
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/284
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD LEG" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD LEG
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9547
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD [A]" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD [A]
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5442
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/283
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD LEG" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD LEG
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9546
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD [A]" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD [A]
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2750
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="GLOBOSAT FILMES",TELECINE CULT FHD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TC_Cult.png" group-title="GLOBOSAT FILMES",TELECINE CULT FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5943
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="GLOBOSAT FILMES",TELECINE CULT HD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TC_Cult.png" group-title="GLOBOSAT FILMES",TELECINE CULT HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4791
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD [A]" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="GLOBOSAT FILMES",TELECINE CULT HD [A]
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TC_Cult.png" group-title="GLOBOSAT FILMES",TELECINE CULT HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4923
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="GLOBOSAT FILMES",TELECINE CULT SD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TC_Cult.png" group-title="GLOBOSAT FILMES",TELECINE CULT SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/281
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="https://4.bp.blogspot.com/-hLOcq729luU/WhT0ZL5SGmI/AAAAAAAABSc/VIsGSBy3deQoVh7nqw9Dlp8tXJHtOLXCgCEwYBhgL/s1600/megapix.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2965
@@ -955,6 +963,10 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2861
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/7519
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://3.bp.blogspot.com/-S4owgV5RQTU/Whg9ZvR3YBI/AAAAAAAABW0/Act_YyhRACUDfwyda0cpJ2_Bso1VvzzVQCLcBGAs/s1600/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/97
+#EXTINF:-1 tvg-id="" tvg-name="CINE BRASIL" tvg-logo="https://4.bp.blogspot.com/-OGFZ7-ipPUg/Wi6Ws3NbZyI/AAAAAAAABtc/Vhd1rkLhU8stwR6NUgFrFBqieeEWldVWQCLcBGAs/s1600/cinebrasil.png" group-title="FILMES E SERIES",CINE BRASIL
+http://srv.elitehdbr.com:55461/live/2FbM0GDRBw/PoT6La0GnU/5460.ts
+#EXTINF:-1 tvg-id="Sundancehd.br" tvg-name="SUNDANCE HD" tvg-logo="https://3.bp.blogspot.com/-YcjIL7LfrWA/Wi6WsCEZU9I/AAAAAAAABtY/tBM04N6yz_g9GkKe55Auj0-E5EM-so1_QCLcBGAs/s1600/sundance.png" group-title="FILMES E SERIES",SUNDANCE HD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/5438.m3u8
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://4.bp.blogspot.com/-yD4gtGMGYto/W5KABgKdp0I/AAAAAAAACcM/7tQgWjniOP8-HTXWo2LYK6_hwewa5uS6wCLcBGAs/s1600/AMC_%25282013%2529.png" group-title="FILMES E SERIES",AMC FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5847
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://4.bp.blogspot.com/-yD4gtGMGYto/W5KABgKdp0I/AAAAAAAACcM/7tQgWjniOP8-HTXWo2LYK6_hwewa5uS6wCLcBGAs/s1600/AMC_%25282013%2529.png" group-title="FILMES E SERIES",AMC HD
@@ -983,6 +995,14 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/7514
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9564
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://4.bp.blogspot.com/-GJUDS1COJqs/Whg9ejBcOuI/AAAAAAAABXA/fbI7B9pUxIESMHd9D1gTD41f82qEL0X8gCLcBGAs/s1600/tcm.png" group-title="FILMES E SERIES",TCM SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/214
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://4.bp.blogspot.com/-GJUDS1COJqs/Whg9ejBcOuI/AAAAAAAABXA/fbI7B9pUxIESMHd9D1gTD41f82qEL0X8gCLcBGAs/s1600/tcm.png" group-title="FILMES E SERIES",TCM HD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/214.m3u8
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD LEG" tvg-logo="https://4.bp.blogspot.com/-GJUDS1COJqs/Whg9ejBcOuI/AAAAAAAABXA/fbI7B9pUxIESMHd9D1gTD41f82qEL0X8gCLcBGAs/s1600/tcm.png" group-title="FILMES E SERIES",TCM SD LEG
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/214.m3u8
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="I-SAT" tvg-logo="https://2.bp.blogspot.com/-8sMsOPlQcbU/Whg9hcLjsII/AAAAAAAABXE/ek_XL4wFaioRoXTJ8pX2Vf7nNf41O5R3ACLcBGAs/s1600/isat.png" group-title="FILMES E SERIES",I-SAT
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/206.ts
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="I-SAT SD [A]" tvg-logo="https://2.bp.blogspot.com/-8sMsOPlQcbU/Whg9hcLjsII/AAAAAAAABXE/ek_XL4wFaioRoXTJ8pX2Vf7nNf41O5R3ACLcBGAs/s1600/isat.png" group-title="FILMES E SERIES",I-SAT SD [A]
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/2810.ts
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD" tvg-logo="https://1.bp.blogspot.com/-0ZRpk7mF8v4/Wh8TXOn_pnI/AAAAAAAABcs/69goEmbY4pwU_3x3keYW-abZR3z090ntACLcBGAs/s1600/Discovery_HomeHealth.png" group-title="VARIEDADES",HOME & HEALTH FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6544
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH HD" tvg-logo="https://1.bp.blogspot.com/-0ZRpk7mF8v4/Wh8TXOn_pnI/AAAAAAAABcs/69goEmbY4pwU_3x3keYW-abZR3z090ntACLcBGAs/s1600/Discovery_HomeHealth.png" group-title="VARIEDADES",HOME & HEALTH HD
@@ -1015,6 +1035,8 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5060
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5345
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://4.bp.blogspot.com/-Ud_YcamaDAY/WhtB9talAbI/AAAAAAAABaw/VO8NyBHz3y4vqYCbRT0ko4qL5EhOiVKKACLcBGAs/s1600/tlc.png" group-title="VARIEDADES",TLC SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/76
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX" tvg-logo="https://3.bp.blogspot.com/-s9_UPG6qXdg/Wi6bTSn66gI/AAAAAAAABto/sTerA8m40hwIdcTaUopYySkMJbd7niF7QCLcBGAs/s1600/travelbox.png" group-title="VARIEDADES",TRAVEL BOX
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5461.ts
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD H265" tvg-logo="https://3.bp.blogspot.com/-s1odC6DUJ5g/W7PPsLj373I/AAAAAAAAClQ/Us5B2iuDuMUpZFOoSssm0rCYcoprsVUbQCLcBGAs/s1600/viva.png" group-title="VARIEDADES",VIVA FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2947
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://3.bp.blogspot.com/-s1odC6DUJ5g/W7PPsLj373I/AAAAAAAAClQ/Us5B2iuDuMUpZFOoSssm0rCYcoprsVUbQCLcBGAs/s1600/viva.png" group-title="VARIEDADES",VIVA HD
