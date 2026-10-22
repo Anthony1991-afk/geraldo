@@ -1003,6 +1003,8 @@ http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/214.m3u8
 http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/206.ts
 #EXTINF:-1 tvg-id="iSat.br" tvg-name="I-SAT SD [A]" tvg-logo="https://2.bp.blogspot.com/-8sMsOPlQcbU/Whg9hcLjsII/AAAAAAAABXE/ek_XL4wFaioRoXTJ8pX2Vf7nNf41O5R3ACLcBGAs/s1600/isat.png" group-title="FILMES E SERIES",I-SAT SD [A]
 http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/2810.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD H265" tvg-logo="https://1.bp.blogspot.com/-0ZRpk7mF8v4/Wh8TXOn_pnI/AAAAAAAABcs/69goEmbY4pwU_3x3keYW-abZR3z090ntACLcBGAs/s1600/Discovery_HomeHealth.png" group-title="VARIEDADES",HOME & HEALTH FHD H265
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6544
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD" tvg-logo="https://1.bp.blogspot.com/-0ZRpk7mF8v4/Wh8TXOn_pnI/AAAAAAAABcs/69goEmbY4pwU_3x3keYW-abZR3z090ntACLcBGAs/s1600/Discovery_HomeHealth.png" group-title="VARIEDADES",HOME & HEALTH FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6544
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH HD" tvg-logo="https://1.bp.blogspot.com/-0ZRpk7mF8v4/Wh8TXOn_pnI/AAAAAAAABcs/69goEmbY4pwU_3x3keYW-abZR3z090ntACLcBGAs/s1600/Discovery_HomeHealth.png" group-title="VARIEDADES",HOME & HEALTH HD
